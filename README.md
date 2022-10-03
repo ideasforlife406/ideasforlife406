@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning swiftUI, python
 - 💞️ I’m looking to collaborate on iOS development
-- 📫 How to reach me -> tcfcyy372@gmail.com
+
 
 <!---
 ideasforlife406/ideasforlife406 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
