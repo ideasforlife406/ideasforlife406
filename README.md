@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ideasforlife406
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning swiftUI, python
-- 💞️ I’m looking to collaborate on iOS development
+- 🌱 I’m currently learning Java, python
+- 💞️ I’m looking to collaborate on any kind of development
 
 
 <!---
